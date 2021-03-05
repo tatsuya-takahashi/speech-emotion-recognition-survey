@@ -1,6 +1,6 @@
 # speech-emotion-recognition-survey
 ## Description
-- このリポジトリは， 感情認識に関する論文をまとめて公開しています．主に音声からの感情認識にフォーカスしています．
+- このリポジトリは， 音声感情認識に関する論文をまとめて公開しています．
 - This repository provides a survey of paper on multimodal emotion recognition(mainly focus on speech audio).
 
 ## Keywords
